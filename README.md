@@ -12,4 +12,5 @@ I'm making these reflections public on the basis that if they are useful to me t
 
 ## Contents
 
+- [On leadership](on-leadership.md)
 - [On measuring productivity](on-measuring-productivity.md)
