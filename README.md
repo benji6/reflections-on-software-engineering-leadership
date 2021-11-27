@@ -17,5 +17,5 @@ If you do find anything useful here then starring the repo would be a great way 
 ## Contents
 
 - [On leadership](on-leadership.md)
-- [Facts and stories)(facts-and-stories.md)
+- [Facts and stories](facts-and-stories.md)
 - [On measuring productivity](on-measuring-productivity.md)
