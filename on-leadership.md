@@ -11,9 +11,13 @@ Here are some notes on what leadership means to me and how I believe successful 
 
 The best way to determine the effectiveness of a leader is to ask to what degree their team as a whole operates as more than just the sum of its individuals. Strong leadership drives disproportionate improvements in outcomes, whereas poor leadership can easily result in a whole that is less than the sum of its parts.
 
-## How do effective leaders operate?
+## The 3 core components of leadership
 
-Effective leaders motivate and inspire. They set a compelling vision that gives everyone a sense of meaning and a shared purpose.
+1. **Vision**: As a leader you must set a compelling view of the future that is inspiring and motivating and gives everyone a sense of meaning and a shared purpose.
+2. **Strategy**: As a leader you must be clear about how the team will attain the vision - this means being explicit about what the team will and will not do in order to get there.
+3. **Culture**: As a leader you are responsible for the culture of your team - this includes the values of the members and is the stuff that glues the team into one cohesive whole.
+
+## How do effective leaders operate?
 
 Effective leaders build and organize teams that combine individuals with a diverse range of experience and abilities into a single unit that achieves far greater things than any member could alone.
 
