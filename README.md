@@ -22,4 +22,5 @@ If you do find anything useful here then starring the repo would be a great way 
 - [Focus](focus.md)
 - [On measuring productivity](on-measuring-productivity.md)
 - [Positivity](positivity.md)
+- [Delegation and deputization](delegation-and-deputization.md)
 - [Success](success.md)
