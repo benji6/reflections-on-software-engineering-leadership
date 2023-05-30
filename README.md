@@ -8,11 +8,11 @@ If you're interested in seeing when new reflections are added then feel free to 
 
 ## Why
 
-I lead teams of software engineers and I find reflecting on the subject can really help clarify what my role is, what the purpose of my role is, and how to be effective in my role. Ultimately I find that taking time to reflect on what I do makes me better at actually doing it.
+I lead teams of software engineers and I find reflecting on the subject can help clarify the purpose of my role and how to be effective in it. Ultimately, I find that taking time to reflect on what I do makes me better at actually doing it.
 
-I'm making these reflections public on the basis that if they are useful to me then they may be useful to others too.
+I'm making these reflections public because it drives a level of quality that might not exist if I kept them private.
 
-If you do find anything useful here then starring the repo would be a great way of letting me know. Furthermore, feel welcome to raise an issue if you have any other feedback.
+I think it's unlikely that anyone else will find these reflections useful and that is not the main driving force behind me writing them. However, if you do find anything useful here then give me a star or write an issue. All feedback welcome.
 
 ## Contents
 
@@ -24,3 +24,4 @@ If you do find anything useful here then starring the repo would be a great way 
 - [Positivity](positivity.md)
 - [Delegation and deputization](delegation-and-deputization.md)
 - [Success](success.md)
+- [Prioritizing technical debt](prioritizing-technical-debt.md)
