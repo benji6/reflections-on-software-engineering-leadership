@@ -17,6 +17,7 @@ I think it's unlikely that anyone else will find these reflections useful and th
 ## Contents
 
 - [On leadership](on-leadership.md)
+- [What is the job of a software engineering leader?](what-is-the-job-of-a-software-engineering-leader.md)
 - [Facts and stories](facts-and-stories.md)
 - [Decisions](decisions.md)
 - [Focus](focus.md)
