@@ -22,6 +22,7 @@ If you're interested in seeing when new reflections are added you can watch the 
 - [Decisions](decisions.md)
 - [Focus](focus.md)
 - [On measuring productivity](on-measuring-productivity.md)
+- [Little's law](littles-law.md)
 - [Positivity](positivity.md)
 - [Delegation and deputization](delegation-and-deputization.md)
 - [Success](success.md)
