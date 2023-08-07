@@ -24,6 +24,7 @@ If you're interested in seeing when new reflections are added you can watch the 
 - [On measuring productivity](on-measuring-productivity.md)
 - [Little's law](littles-law.md)
 - [Positivity](positivity.md)
+- [Bravery](bravery.md)
 - [Delegation and deputization](delegation-and-deputization.md)
 - [Success](success.md)
 - [Prioritizing technical debt](prioritizing-technical-debt.md)
