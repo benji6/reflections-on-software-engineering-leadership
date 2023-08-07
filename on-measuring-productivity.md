@@ -2,7 +2,7 @@
 
 ## tl;dr
 
-It's really hard to quantify productivity in software engineering and it probably isn't the main thing that you should be focussing on.
+There are serious limitations to applying metrics to knowledge work like software engineering. For instance, productivity is extremely difficult to estimate and quantify given that every piece of work is unique and each piece of work can be highly variable in terms of size, value and complexity. Attempts to measure productivity using effort estimates like story points are flawed (e.g. very easy to game). The connection between any given piece of work and the bottom line for the business is usually very hard to evaluate. A software development team differs markedly from a factory in this regard.
 
 ## Why measure productivity
 
@@ -13,7 +13,7 @@ It's really hard to quantify productivity in software engineering and it probabl
 
 In the business world there is a drive to measure everything. Measuring things allows us to understand them and alter them through experimentation, essentially treating running a business like conducting a science experiment. A lot of very successful enterprises embrace this data-driven approach.
 
-One thing I've seen leaders try to measure is productivity within engineering departments. The thinking is that it would be great if we could understand the productivity of individuals in the team and those individuals working together as a team so that we can attempt to maximize it and realize an optimal return on our investment in human capital.
+One thing I've seen leaders try to measure is productivity within engineering departments. The thinking is that it would be great if we could understand the productivity of individuals and teams so that we can attempt to maximize it and realize an optimal return on our developer costs.
 
 ## What is productivity?
 
