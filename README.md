@@ -26,5 +26,6 @@ If you're interested in seeing when new reflections are added you can watch the 
 - [Positivity](positivity.md)
 - [Bravery](bravery.md)
 - [Delegation and deputization](delegation-and-deputization.md)
+- [Delivery estimates and precision](delivery-estimates-and-precision.md)
 - [Success](success.md)
 - [Prioritizing technical debt](prioritizing-technical-debt.md)
