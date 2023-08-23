@@ -1,6 +1,6 @@
 # Delivery estimates and precision
 
-Consider estimating the delivery time of a complicated software engineering project. If you were to plot a graph of delivery likelihood on the y axis against time on the x axis you would typically not get a symmetrical [Gaussian distribution](https://en.wikipedia.org/wiki/Normal_distribution). Typically you would see an asymmetrical curve with a long tail stretching off to the future.
+Consider estimating the delivery time of a complicated software engineering project. If you were to plot a graph of delivery likelihood on the y axis against time on the x axis you would typically not get a symmetrical [Gaussian distribution](https://en.wikipedia.org/wiki/Normal_distribution). Typically you would see an asymmetrical curve with a long tail stretching off to the future ([positive skew](https://en.wikipedia.org/wiki/Skewness)).
 
 If you to commit to a delivery time that lies in the middle of that distribution then 50% of the time you will either deliver on time or a bit before scheduled and 50% of the time you will deliver on time or potentially quite a long way after scheduled. This is undesirable as we may appear unreliable and ineffective.
 
