@@ -6,6 +6,6 @@ If you to commit to a delivery time that lies in the middle of that distribution
 
 If we are constrained to providing a delivery time under so much uncertainty it makes sense to pad it as much as possible (without seeming overly pessimistic or ineffective) such that most of the time we will complete the project on time or before schedule.
 
-Now consider [Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law). Given the delivery time now seems to have so much padding how aggressively is the team going to push and prioritize delivery of this project? We've just changed the shape of the delivery time probability curve by pushing it out slightly.
+Now consider [Parkinson's law](parkinsons-law.md). Given the delivery time now seems to have so much padding how aggressively is the team going to push and prioritize delivery of this project? We've just changed the shape of the delivery time probability curve by pushing it out slightly.
 
 In this way, I find it quite likely that increased delivery time precision leads to longer delivery times.

@@ -25,6 +25,7 @@ If you're interested in seeing when new reflections are added you can watch the 
 - [Types of waste](types-of-waste.md)
 - [Little's law](littles-law.md)
 - [Positivity](positivity.md)
+- [Parkinson's law](parkinsons-law.md)
 - [Bravery](bravery.md)
 - [Delegation and deputization](delegation-and-deputization.md)
 - [Delivery estimates and precision](delivery-estimates-and-precision.md)
