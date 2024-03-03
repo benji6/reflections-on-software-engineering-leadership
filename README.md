@@ -31,3 +31,4 @@ If you're interested in seeing when new reflections are added you can watch the 
 - [Delivery estimates and precision](delivery-estimates-and-precision.md)
 - [Success](success.md)
 - [Prioritizing technical debt](prioritizing-technical-debt.md)
+- [On impact](on-impact.md)
