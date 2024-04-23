@@ -32,3 +32,4 @@ If you're interested in seeing when new reflections are added you can watch the 
 - [Success](success.md)
 - [Prioritizing technical debt](prioritizing-technical-debt.md)
 - [On impact](on-impact.md)
+- [Work-life balance](work-life-balance.md)
