@@ -15,7 +15,7 @@ The best way to determine the effectiveness of a leader is to ask to what degree
 
 1. **Vision**: As a leader you must set a compelling view of the future that is inspiring and motivating and gives everyone a sense of meaning and a shared purpose.
 2. **Strategy**: As a leader you must be clear about how the team will attain the vision - this means being explicit about what the team will and will not do in order to get there.
-3. **Process**: As a leader you must put in place processes that enable the team to execute the strategy as effectively as possible.
+3. **Policy and process**: As a leader you must put in place policies and processes that enable the team to execute the strategy as effectively as possible.
 4. **Culture & values**: As a leader you are responsible for the culture of your team. Culture is the invisible stuff that fills in all the gaps where process doesn't dictate explicit behavior. It glues the team into one cohesive whole where every member instinctively knows how to act even when things are ambiguous or when there is a lack of explicit direction. It manifests across the team as a coherent and effective approach to autonomy.
 
 ## How do effective leaders operate?
